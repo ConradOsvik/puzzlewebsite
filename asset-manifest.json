@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/puzzlewebsite/static/css/main.310750d2.chunk.css",
+    "main.js": "/puzzlewebsite/static/js/main.12b8c304.chunk.js",
+    "main.js.map": "/puzzlewebsite/static/js/main.12b8c304.chunk.js.map",
+    "runtime-main.js": "/puzzlewebsite/static/js/runtime-main.0e4148ff.js",
+    "runtime-main.js.map": "/puzzlewebsite/static/js/runtime-main.0e4148ff.js.map",
+    "static/js/2.7c7ab246.chunk.js": "/puzzlewebsite/static/js/2.7c7ab246.chunk.js",
+    "static/js/2.7c7ab246.chunk.js.map": "/puzzlewebsite/static/js/2.7c7ab246.chunk.js.map",
+    "static/js/3.c0862106.chunk.js": "/puzzlewebsite/static/js/3.c0862106.chunk.js",
+    "static/js/3.c0862106.chunk.js.map": "/puzzlewebsite/static/js/3.c0862106.chunk.js.map",
+    "index.html": "/puzzlewebsite/index.html",
+    "static/css/main.310750d2.chunk.css.map": "/puzzlewebsite/static/css/main.310750d2.chunk.css.map",
+    "static/js/2.7c7ab246.chunk.js.LICENSE.txt": "/puzzlewebsite/static/js/2.7c7ab246.chunk.js.LICENSE.txt",
+    "static/media/Welcome.05bba1ff.svg": "/puzzlewebsite/static/media/Welcome.05bba1ff.svg",
+    "static/media/signup.f2433397.svg": "/puzzlewebsite/static/media/signup.f2433397.svg",
+    "static/media/unlock.950028ea.svg": "/puzzlewebsite/static/media/unlock.950028ea.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e4148ff.js",
+    "static/js/2.7c7ab246.chunk.js",
+    "static/css/main.310750d2.chunk.css",
+    "static/js/main.12b8c304.chunk.js"
+  ]
+}
